@@ -6,7 +6,7 @@
     --buttonHover: #d44824;
     --smallButtonHover: rgba(0, 0, 0, .25);
 }
- q
+ 
 html {
     box-sizing: border-box;
     /* keeps button boxes within phone screen width */
